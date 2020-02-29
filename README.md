@@ -52,4 +52,4 @@ Tensor  shape: {2 5}
 
 ## Example output
 
-![Example of Mobile SSD](detected.jpg  "Example of Mobile SSD(Courtesy of https://github.com/walktree/libtorch-yolov3/blob/master/imgs/messi.jpg for the image.")
+![Example of Mobile SSD](detected.jpg  "Example of Mobile SSD(Courtesy of https://github.com/walktree/libtorch-yolov3/blob/master/imgs/messi.jpg for the image.)")
