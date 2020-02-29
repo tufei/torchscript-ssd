@@ -37,7 +37,7 @@ You should see message like the following:
 –torch-script specified with value = mb2-ssd-lite-mp-0_686.pt
 –labels specified with value = voc-model-labels.txt
 –probability-threshold specified with value = 0.5
-–input-file specified with value = ../libtorch-yolov3/imgs/messi.jpg
+–input-file specified with value = messi.jpg
 cuDNN: Yes
 CUDA: Yes
 Loaded TorchScript mb2-ssd-lite-mp-0_686.pt
